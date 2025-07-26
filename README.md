@@ -34,8 +34,8 @@ A test-driven Ruby command-line application that simulates a shopping basket. In
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/acme_basket.git
-   cd acme_basket
+   git clone https://github.com/HamzaSoban00/Acme-Widget-Co.git
+   cd Acme-Widget-Co
 
 2. Install dependencies:
    ```bash
